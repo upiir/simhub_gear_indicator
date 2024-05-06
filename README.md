@@ -1,5 +1,5 @@
 # SimHub Gear Indicator
-SimHub Gear Indicator
+Learn how to use a custom gear indicator with the SimHub application to show the gear for any racing game. You can put this display anywhere you want, including inside the shifter knob itself. This is part 5 of the custom gear indicator series, please watch the previous videos if you want to know all the details. 
 
 
 **YouTube video: https://youtu.be/JbVqXZngXAY**
@@ -28,7 +28,7 @@ Gear Indicator video series:
 
 
 
-Small Animations:
+Small Animation:
 
 ![simhub_gear_indicator](https://github.com/upiir/simhub_gear_indicator/assets/117754156/99099cff-f35c-4248-a20f-83a63532c71a)
 
